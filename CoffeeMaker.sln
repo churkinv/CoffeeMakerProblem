@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMaker", "CoffeeMaker\CoffeeMaker.csproj", "{F5F3243E-FFE2-4960-939C-A07673159EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMaker.UnitTests", "CoffeeMaker.UnitTests\CoffeeMaker.UnitTests.csproj", "{73E6C242-C540-4FBF-98BA-C3A902917C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeCoffee", "MakeCoffee\MakeCoffee.csproj", "{3F90F3D9-1B32-45F3-97F9-B4111EBF53AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F3243E-FFE2-4960-939C-A07673159EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F3243E-FFE2-4960-939C-A07673159EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F3243E-FFE2-4960-939C-A07673159EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F3243E-FFE2-4960-939C-A07673159EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E6C242-C540-4FBF-98BA-C3A902917C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E6C242-C540-4FBF-98BA-C3A902917C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E6C242-C540-4FBF-98BA-C3A902917C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E6C242-C540-4FBF-98BA-C3A902917C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F90F3D9-1B32-45F3-97F9-B4111EBF53AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F90F3D9-1B32-45F3-97F9-B4111EBF53AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F90F3D9-1B32-45F3-97F9-B4111EBF53AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F90F3D9-1B32-45F3-97F9-B4111EBF53AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
